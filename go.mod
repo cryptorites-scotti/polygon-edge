@@ -45,7 +45,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220126234351-aa10faf2a1f8
 	golang.org/x/net v0.0.0-20220127074510-2fabfed7e28f // indirect
 	golang.org/x/tools v0.1.9 // indirect
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 	lukechampine.com/blake3 v1.1.7 // indirect
